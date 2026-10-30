@@ -1,0 +1,1 @@
+Upload index.html naar de hoofdmap van je GitHub repository. Alle 30 productfotos zijn ingebouwd in dit ene bestand.
